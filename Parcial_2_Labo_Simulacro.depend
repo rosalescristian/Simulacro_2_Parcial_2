@@ -1,0 +1,123 @@
+# depslib dependency file v1.0
+1607014327 source:c:\users\crisp\desktop\simulacro 2\parcial_2_labo_simulacro\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Participante.h"
+	"Parser.h"
+	"utn.h"
+
+1607003141 c:\users\crisp\desktop\simulacro 2\parcial_2_labo_simulacro\linkedlist.h
+
+1606999685 c:\users\crisp\desktop\simulacro 2\parcial_2_labo_simulacro\controller.h
+
+1607014401 c:\users\crisp\desktop\simulacro 2\parcial_2_labo_simulacro\participante.h
+
+1606999685 c:\users\crisp\desktop\simulacro 2\parcial_2_labo_simulacro\parser.h
+
+1607003565 c:\users\crisp\desktop\simulacro 2\parcial_2_labo_simulacro\utn.h
+
+1607003141 source:c:\users\crisp\desktop\simulacro 2\parcial_2_labo_simulacro\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1607006112 source:c:\users\crisp\desktop\simulacro 2\parcial_2_labo_simulacro\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1607013878 source:c:\users\crisp\desktop\simulacro 2\parcial_2_labo_simulacro\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Participante.h"
+	"Parser.h"
+	"utn.h"
+
+1607013251 source:c:\users\crisp\desktop\simulacro 2\parcial_2_labo_simulacro\utn.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Participante.h"
+	"Parser.h"
+	"utn.h"
+
+1607013961 source:c:\users\crisp\desktop\simulacro 2\parcial_2_labo_simulacro\participante.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Participante.h"
+	"Parser.h"
+	"utn.h"
+
+1607014401 source:d:\utn fra\2020\1 cuatrimestre\0 - laboratorio de programacion 1\german y octavio\parcial_2\simulacro 2\parcial_2_labo_simulacro\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Participante.h"
+	"Parser.h"
+	"utn.h"
+
+1607003141 d:\utn fra\2020\1 cuatrimestre\0 - laboratorio de programacion 1\german y octavio\parcial_2\simulacro 2\parcial_2_labo_simulacro\linkedlist.h
+
+1606999685 d:\utn fra\2020\1 cuatrimestre\0 - laboratorio de programacion 1\german y octavio\parcial_2\simulacro 2\parcial_2_labo_simulacro\controller.h
+
+1607014401 d:\utn fra\2020\1 cuatrimestre\0 - laboratorio de programacion 1\german y octavio\parcial_2\simulacro 2\parcial_2_labo_simulacro\participante.h
+
+1606999685 d:\utn fra\2020\1 cuatrimestre\0 - laboratorio de programacion 1\german y octavio\parcial_2\simulacro 2\parcial_2_labo_simulacro\parser.h
+
+1607003565 d:\utn fra\2020\1 cuatrimestre\0 - laboratorio de programacion 1\german y octavio\parcial_2\simulacro 2\parcial_2_labo_simulacro\utn.h
+
+1607003141 source:d:\utn fra\2020\1 cuatrimestre\0 - laboratorio de programacion 1\german y octavio\parcial_2\simulacro 2\parcial_2_labo_simulacro\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1607006112 source:d:\utn fra\2020\1 cuatrimestre\0 - laboratorio de programacion 1\german y octavio\parcial_2\simulacro 2\parcial_2_labo_simulacro\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1607013878 source:d:\utn fra\2020\1 cuatrimestre\0 - laboratorio de programacion 1\german y octavio\parcial_2\simulacro 2\parcial_2_labo_simulacro\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Participante.h"
+	"Parser.h"
+	"utn.h"
+
+1607014401 source:d:\utn fra\2020\1 cuatrimestre\0 - laboratorio de programacion 1\german y octavio\parcial_2\simulacro 2\parcial_2_labo_simulacro\participante.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Participante.h"
+	"Parser.h"
+	"utn.h"
+
+1607013251 source:d:\utn fra\2020\1 cuatrimestre\0 - laboratorio de programacion 1\german y octavio\parcial_2\simulacro 2\parcial_2_labo_simulacro\utn.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Participante.h"
+	"Parser.h"
+	"utn.h"
+
